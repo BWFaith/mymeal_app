@@ -5,7 +5,7 @@ final meallist = [
     id: 'm1',
     category: ['c1', 'c3'],
     title: 'Fluffy Pancakes',
-    imageurl: 'lib/assets/jj.jpg',
+    imageurl: 'https://images.unsplash.com/photo-1551183053-bf91a1d81141',
     ingredients: [
       '1 cup Flour',
       '1 Egg',
